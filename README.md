@@ -1,5 +1,5 @@
-- 👋 Hi, My name is N!
-- 👀 I’m interested in musics and video games 
+- 👋 Hi, My name is Duy Nhan!
+- 👀 I’m interested in coding and music
 - 🌱 I’m currently learning C++, Java, HTML/CSS, Kali, Metasploitable 2, C#
 - 💞️ I’m working to become an Cyber Security Engineer/ Penetration Tester
 - 📫 How to reach me: duynhanworking@gmail.com
